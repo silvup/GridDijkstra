@@ -1,6 +1,3 @@
-Instrukcja uruchomienia:
-Należy zmienić rozszerzenie pliku "botrouteplanner.jarREMOVE" na "botrouteplanner.jar", a następnie uruchomić go poleceniem:
-
 java -jar botrouteplanner.jar <grid file name> <job file name>
 
 Opis programu:
